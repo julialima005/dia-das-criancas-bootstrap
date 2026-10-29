@@ -1,0 +1,14 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.swp
+*~
+
+# Configurações locais e credenciais
+.env
+.env.*
+!.env.example
