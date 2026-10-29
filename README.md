@@ -17,6 +17,10 @@ O objetivo é praticar a organização de páginas e o uso de componentes do Boo
 - Perguntas e respostas expansíveis (accordion).
 - Ícones do Font Awesome.
 
+## Demonstração
+<img width="1525" height="631" alt="image" src="https://github.com/user-attachments/assets/df2015a8-90f3-4abd-a76c-043c978c86d6" />
+
+
 ## Tecnologias utilizadas
 
 - HTML5.
